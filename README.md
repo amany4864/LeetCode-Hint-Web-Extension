@@ -8,13 +8,11 @@ A totally free to use Chrome extension that generate helpful hints for LeetCode 
 
 # 📥 Download & Install
 Clone or Download this project: <br>
-1. Git clone :
+1.        git clone https://github.com/amany4864/leetcode-hint-extension.git
+    Or simply Download ZIP and extract it.
 
-    https://github.com/your-username/leetcode-hint-extension.git
-<br>Or simply Download ZIP and extract it.
-
-2. Open Chrome and go to:
-👉 [chrome://extensions/](chrome://extensions/ "chrome://extensions/")
+2. Open Chrome and go to:<br>
+👉  **[Extensions Page: -> chrome://extensions](chrome://extensions)**
 
 3. Enable "Developer Mode" (toggle switch at top-right).
 
@@ -25,7 +23,7 @@ Clone or Download this project: <br>
 # 🔧 Setup and Usage
 1. Click on the Extension Icon in Chrome.
 
-2. Paste your Groq API Key (need help? See below 👇).
+2. Paste your free Groq API Key (need help? See below 👇).
 
 3. Select the model name you want to use
 (Currently added only limited models will increase in future)
@@ -49,7 +47,7 @@ Groq provides free and extremely fast access to powerful AI models.
 
 5. Create a new API Key.
 
-6. Copy the key securely and paste it into the extension settings.
+6. Copy the key securely and paste it into the extension settings and select your model.
 
 #### ✅ Now you are ready to use your LeetCode Helper Extension!
 
