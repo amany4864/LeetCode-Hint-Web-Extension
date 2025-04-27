@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "LeetCode Hint Helper",
+    "version": "1.0",
+    "description": "Get hints for LeetCode problems using open-source LLMs hosted on Groq",
+    "permissions": ["storage", "unlimitedStorage","activeTab", "scripting","tabs"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+      }
+    },
+
+
+    "content_scripts": [
+      {
+        "matches": ["*://*.leetcode.com/problems/*"],
+        "js": ["content.js"]
+      }
+    ],
+    
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
