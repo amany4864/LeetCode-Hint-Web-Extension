@@ -5,6 +5,7 @@
 # 🚀 LeetCode Hint Chrome Extension
 A totally free to use Chrome extension that generate helpful hints for LeetCode problems using any AI model hosted on Groq for free.<br>
 **Get hints instantly while solving, without leaving the page.**
+<br>**NOTE:- Extension is not for generating full code, the intetion is to provide hint**
 
 # 📥 Download & Install
 Clone or Download this project: <br>
@@ -29,8 +30,17 @@ Clone or Download this project: <br>
 (Currently added only limited models will increase in future)
 
 4. Open any LeetCode problem. You will see a "**Get Hint**" button on the bottom right of the page.
- 
-5. Click it to generate a helpful hint for the current question!
+
+   ![image](https://github.com/user-attachments/assets/74a947f6-e35b-48df-973b-98fe483daac6)
+
+
+
+6. Click and write the query regarding the current question and click get AI hint!
+   
+   <img src="https://github.com/user-attachments/assets/7efcb229-23aa-4565-8496-a63322a30476" width="200" height="300">
+
+   
+
 
 ⚡ Hints are generated live based on your problem's title and description using your selected model.
 
