@@ -1,5 +1,5 @@
 ![Made with Groq](https://img.shields.io/badge/Made%20with-Groq-orange)
-![Made with Groq](https://img.shields.io/badge/Made%20with-Groq-orange)
+
 
 
 # 🚀 LeetCode Hint Chrome Extension
@@ -11,7 +11,7 @@ Clone or Download this project: <br>
 1. Git clone :
 
     https://github.com/your-username/leetcode-hint-extension.git
-Or simply Download ZIP and extract it.
+<br>Or simply Download ZIP and extract it.
 
 2. Open Chrome and go to:
 👉 [chrome://extensions/](chrome://extensions/ "chrome://extensions/")
